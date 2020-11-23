@@ -10,7 +10,7 @@ namespace Tipos_de_datos_primitivos
     {
         static void Main(string[] args)
         {
-            NumeroEntero.IniciarPrueba();
+            NumeroDecimal.IniciarPrueba();
             Console.ReadKey();
         }
     }
