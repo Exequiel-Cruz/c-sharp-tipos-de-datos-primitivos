@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipos de datos primitivos", "Tipos de datos primitivos\Tipos de datos primitivos.csproj", "{1881309F-688A-4035-B6DA-67828C97F34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1881309F-688A-4035-B6DA-67828C97F34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1881309F-688A-4035-B6DA-67828C97F34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1881309F-688A-4035-B6DA-67828C97F34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1881309F-688A-4035-B6DA-67828C97F34B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B51D1AFA-3445-41E8-A161-3B7DAEB59BDF}
+	EndGlobalSection
+EndGlobal
