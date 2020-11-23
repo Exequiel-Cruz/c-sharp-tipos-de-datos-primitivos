@@ -64,9 +64,9 @@ namespace Tipos_de_datos_primitivos
                             break;
                         case 9:
                             Console.WriteLine("Ingresa el primer numero:");
-                            sbyte numero1 = sbyte.Parse(Console.ReadLine());
+                            int numero1 = int.Parse(Console.ReadLine());
                             Console.WriteLine("Ingresa el segundo numero");
-                            sbyte numero2 = sbyte.Parse(Console.ReadLine());
+                            int numero2 = int.Parse(Console.ReadLine());
                             Console.WriteLine($"{numero1} + {numero2} = {numero1 + numero2}");
                             Console.WriteLine($"{numero1} - {numero2} = {numero1 - numero2}");
                             Console.WriteLine($"{numero1} * {numero2} = {numero1 * numero2}");
